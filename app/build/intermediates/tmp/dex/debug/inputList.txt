@@ -1,0 +1,2 @@
+C:\Users\arielb\AndroidStudioProjects\CriminalIntent\app\build\intermediates\classes\debug
+C:\Users\arielb\AndroidStudioProjects\CriminalIntent\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-a1ab4dc07d05b548e460cad9ebf0152cb3d15469.jar
